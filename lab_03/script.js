@@ -26,7 +26,7 @@ document.querySelectorAll('.product').forEach(product => {
       document.getElementById('subtotal').textContent = subtotal;
       document.getElementById('balance').textContent = balance;
     } else {
-      alert('Insufficient funds'); // Changed this line to show an alert box
+      alert('Insufficient funds'); //show an alert box
     }
   });
 });
