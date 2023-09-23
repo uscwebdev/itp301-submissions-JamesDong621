@@ -1,0 +1,20 @@
+/* Tag CSS Selector */
+h1 {
+  color: green;
+}
+
+/* ID CSS Selector */
+#full-name {
+  font-style: italic;
+}
+
+/* Class CSS Selector */
+.favorite-color {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+img {
+  max-width: 400px;
+  height: 400px;
+}
