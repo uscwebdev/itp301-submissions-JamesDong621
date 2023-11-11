@@ -1,0 +1,17 @@
+#pixel-box {
+  height: 200px;
+}
+#box {
+  width: 150px;
+  height: 150px;
+  line-height: 150px;
+  text-align: center;
+  font-size: 1.2em;
+  margin: auto;
+  background-color: #ccc;
+  border: 1px solid #000;
+  border-radius: 5px;
+
+  position: relative;
+  left: 0px;
+}
