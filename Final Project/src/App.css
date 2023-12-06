@@ -1,0 +1,14 @@
+/* Basic styles */
+.nav-links {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.login {
+  float: right;
+}
+
